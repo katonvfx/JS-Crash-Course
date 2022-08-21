@@ -81,8 +81,36 @@
 
 /**FUNCTIONS */
 
+// Function Definition
+// function welcomePersonToFES(firstName, lastName) {
+//     console. log(`Welcome to FES, ${firstName} ${lastName}`)
+// }
 
-    
+// //Call to Function
+// welcomePersonToFES('Maia', 'McConnell')
+// welcomePersonToFES('John', 'Doe')
+// welcomePersonToFES('Katy', 'Duncan')
+
+/**RETURN KEYWORDS */
+
+// function sumOfTwoNumbers(num1, num2) {
+//     return num1 + num2
+// }
+
+// console. log(sumOfTwoNumbers(100, 10))
+
+/**FUNCTION TEST */
+
+// function tempConverter(celsius) {
+//     return celsius * 1.8 + 32
+// }
+
+// console. log(tempConverter(0))
+// console. log(tempConverter(10))
+// console. log(tempConverter(30))
+
+/**ARRAYS */
+
 
 
 
