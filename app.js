@@ -111,6 +111,66 @@
 
 /**ARRAYS */
 
+// let arr = [20, 30, 40, 50, 100]
+
+// //first element of array:
+// console. log(arr[0])
+
+// //last element of array:
+// console. log(arr[arr.length - 1])
+
+// arr.push(200)
+
+// console. log(arr)
+
+/**ARRAY FILTER METHOD */
+// let arr = [20, 30, 40, 50, 100]
+ 
+// let newArr = arr.filter(element => element < 50)
+
+// console. log(newArr)
+
+// GRADES
+// let grades =['A+', 'A', 'FAIL']
+
+// let goodGrades = grades.filter(element => element !== 'FAIL')
+
+// console. log(goodGrades)
+
+//GRADES 2
+// 
+// let grades = ['A+', 'A', 'FAIL']
+// let goodGrades = []
+
+// for (let i = 0; i < grades.length; ++i) {
+//     if (grades[i] !== 'FAIL') {
+//         goodGrades.push(grades[i])
+//     }
+// }
+// console.log(goodGrades)
+
+/**ARRAY MAP */
+
+// let dollars = [1, 5, 10, 3];
+
+// let newArr = dollars.map(element => element * 100)
+
+// console. log(newArr)
+
+/**DOLLARS QUESTION */
+
+// let dollars = [1, 5, 10, 3];
+// let cents = []
+
+// for (let i = 0; i < dollars.length; ++i) {
+//     cents.push(dollars[i] * 100)
+// }
+
+// console. log (cents)
+
+/**OBJECTS */
+
+
 
 
 
